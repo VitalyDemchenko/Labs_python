@@ -32,6 +32,8 @@ print('  ')
 print(' Метод хорд ')
 print('  ')
 
+# Метод хорд
+
 def metod(a,b,e):
     if (f(a)*df2(a)) > 0 :
         x0 = a 
